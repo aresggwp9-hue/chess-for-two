@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Contrast White Rook -->
+    <path
+        android:fillColor="#FFFBEB"
+        android:strokeColor="#D97706"
+        android:strokeWidth="2.2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M12,12 h6 v5 h4 v-5 h4 v5 h4 v-5 h6 v9 h-2 v13 h2 v3 h-26 v-3 h2 v-13 h-2 z
+            M10,38 L38,38 L39,43 L9,43 Z" />
+    <path
+        android:strokeColor="#B45309"
+        android:strokeWidth="1.8"
+        android:pathData="M14,21 h20 M12,35 h24 M10,38 h28" />
+</vector>

@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Contrast White Bishop -->
+    <path
+        android:fillColor="#FFFBEB"
+        android:strokeColor="#D97706"
+        android:strokeWidth="2.2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M24,7 A2.5,2.5 0 1,1 24,6.99 Z
+            M16,33 C14,28 15,20 20,13 C21,11.5 24,10 24,10 C24,10 27,11.5 28,13 C33,20 34,28 32,33 Z
+            M13,36 L35,36 L37,42 L11,42 Z" />
+    <path
+        android:strokeColor="#B45309"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M24,16 L24,25 M20.5,20 L27.5,20 M14,33 h20 M13,36 h22" />
+</vector>

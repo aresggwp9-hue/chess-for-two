@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- White Queen -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#212121"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M9,17 L13,32 L35,32 L39,17 L30,24 L24,14 L18,24 Z
+            M12,35 L36,35 L38,42 L10,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#212121"
+        android:strokeWidth="1.5"
+        android:pathData="M9,16 A2,2 0 1,1 9,15.99 Z
+            M18,13 A2,2 0 1,1 18,12.99 Z
+            M24,10 A2,2 0 1,1 24,9.99 Z
+            M30,13 A2,2 0 1,1 30,12.99 Z
+            M39,16 A2,2 0 1,1 39,15.99 Z" />
+    <path
+        android:strokeColor="#212121"
+        android:strokeWidth="1.5"
+        android:pathData="M12,35 h24 M13,38 h22" />
+</vector>

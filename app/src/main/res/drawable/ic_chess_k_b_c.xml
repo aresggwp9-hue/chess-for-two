@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Contrast Black King -->
+    <path
+        android:fillColor="#090D16"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M22.5,6 h3 v4 h4 v3 h-4 v4 h-3 v-4 h-4 v-3 h4 z
+            M15,18 C15,18 20,20 20,24 C16,25 12,28 12,34 L36,34 C36,28 32,25 28,24 C28,20 33,18 33,18 C30,17 26.5,18 24,20 C21.5,18 18,17 15,18 Z
+            M11,36 L37,36 L38,42 L10,42 Z" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:pathData="M11,36 h26 M14,32 h20" />
+</vector>

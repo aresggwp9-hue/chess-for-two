@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Black Knight -->
+    <path
+        android:fillColor="#212121"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M11,36 L37,36 L38,42 L10,42 Z
+            M14,35 C14,35 15,28 17,25 C14,23 11,18 13,13 C14,10 17,11 18,12 C18,10 19,7 23,7 C26,7 28,10 29,12 C33,14 36,18 36,25 C36,31 34,35 34,35 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M17,17 A1.5,1.5 0 1,1 17,16.99 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M12,36 h24 M21,14 C21,17 24,19 28,19 M29,24 C31,26 33,28 34,33" />
+</vector>

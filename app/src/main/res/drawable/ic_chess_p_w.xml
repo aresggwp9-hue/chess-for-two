@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- White Pawn -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#212121"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M24,11 A5,5 0 1,1 24,10.99 Z
+            M18,22 C18,22 17,25 19,27 C20,28 20,33 16,35 L32,35 C28,33 28,28 29,27 C31,25 30,22 30,22 Z
+            M14,37 L34,37 L35,42 L13,42 Z" />
+    <path
+        android:strokeColor="#212121"
+        android:strokeWidth="1.5"
+        android:pathData="M18,22 h12 M15,36 h18" />
+</vector>

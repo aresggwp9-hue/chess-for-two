@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Шахматы для двоих</string>
+    <string name="nav_game">Игра</string>
+    <string name="nav_history">История игр</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_viewer">Просмотр</string>
+
+    <!-- Game Screen -->
+    <string name="turn_white">Ход белых</string>
+    <string name="turn_black">Ход чёрных</string>
+    <string name="tap_to_toggle_turn">Нажмите для переключения</string>
+    <string name="btn_undo">Отменить</string>
+    <string name="btn_redo">Вернуть</string>
+    <string name="btn_flip">Перевернуть</string>
+    <string name="btn_new_game">Новая игра</string>
+    <string name="btn_save_game">Сохранить</string>
+    <string name="btn_edit_board">Расстановка</string>
+    <string name="btn_edit_done">Готово</string>
+    <string name="edit_mode_active">Режим расстановки: коснитесь фигуры из палитры, затем клетки. Долгое нажатие удаляет фигуру.</string>
+    <string name="dialog_new_game_title">Начать новую партию?</string>
+    <string name="dialog_new_game_desc">Текущая расстановка и ходы будут сброшены к начальной позиции.</string>
+    <string name="dialog_save_game_title">Сохранить партию</string>
+    <string name="dialog_save_game_hint">Название партии</string>
+    <string name="dialog_save_default_prefix">Партия от</string>
+    <string name="dialog_confirm">Подтвердить</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_save">Сохранить</string>
+    <string name="dialog_delete">Удалить</string>
+    <string name="game_saved_success">Партия сохранена</string>
+    <string name="preview_move_title">Просмотр хода %1$d</string>
+    <string name="btn_continue_from_here">Продолжить отсюда</string>
+    <string name="btn_return_to_current">К текущему ходу</string>
+    <string name="captured_white">Взято у белых:</string>
+    <string name="captured_black">Взято у чёрных:</string>
+    <string name="no_moves_yet">Ходов пока нет. Сделайте первый ход!</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Сохранённые партии</string>
+    <string name="history_search_hint">Поиск по названию...</string>
+    <string name="history_empty">Нет сохранённых партий</string>
+    <string name="history_moves_count">Ходов: %1$d</string>
+    <string name="btn_continue_game">Открыть и продолжить</string>
+    <string name="btn_view_game">Просмотреть</string>
+    <string name="btn_rename_game">Переименовать</string>
+    <string name="btn_delete_game">Удалить</string>
+    <string name="dialog_delete_title">Удалить партию?</string>
+    <string name="dialog_delete_desc">Это действие нельзя отменить.</string>
+    <string name="dialog_rename_title">Переименовать партию</string>
+    <string name="btn_export">Экспорт</string>
+    <string name="btn_import">Импорт</string>
+    <string name="import_dialog_title">Импорт партии (JSON)</string>
+    <string name="import_paste_hint">Вставьте текст JSON партии сюда</string>
+    <string name="import_success">Партия успешно импортирована!</string>
+    <string name="import_error">Ошибка импорта: неверный формат</string>
+
+    <!-- Viewer Screen -->
+    <string name="viewer_title">Просмотр партии</string>
+    <string name="viewer_start">Начало</string>
+    <string name="viewer_step_back">Назад</string>
+    <string name="viewer_step_forward">Вперёд</string>
+    <string name="viewer_end">Конец</string>
+    <string name="viewer_play">Авто</string>
+    <string name="viewer_pause">Пауза</string>
+    <string name="viewer_speed">Скорость: %1$sx</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Настройки</string>
+    <string name="settings_piece_style">Стиль фигур</string>
+    <string name="settings_piece_classic">Классический</string>
+    <string name="settings_piece_contrast">Контрастный</string>
+    <string name="settings_board_theme">Тема доски</string>
+    <string name="settings_board_wood">Классическое дерево</string>
+    <string name="settings_board_tournament">Турнирная зелёная</string>
+    <string name="settings_board_dark">Тёмный графит</string>
+    <string name="settings_board_blue">Морская синяя</string>
+    <string name="settings_sound">Звуковые эффекты</string>
+    <string name="settings_sound_desc">Звук при перемещении и взятии фигур</string>
+    <string name="settings_vibration">Вибрация</string>
+    <string name="settings_vibration_desc">Тактильный отклик при ходе</string>
+    <string name="settings_coords">Координаты на доске</string>
+    <string name="settings_coords_desc">Отображать буквы a–h и цифры 1–8</string>
+    <string name="settings_auto_turn">Авто-переключение хода</string>
+    <string name="settings_auto_turn_desc">Переключать подсказку стороны после каждого хода</string>
+    <string name="settings_about_title">О приложении</string>
+    <string name="settings_about_desc">Шахматы для двоих на одном экране без ограничений правил. Свободный режим, поддержка любых расстановок и ходов.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Шахматы для двоих",
+  "description": "Классические и свободные шахматы для двух игроков на одном устройстве с записью ходов, сохранением партий и настройкой доски.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
